@@ -6,6 +6,7 @@
  * @f: pointer to the struct flags determining
  * if a flag is passed to _printf
  * Return: number of char printed
+ * by Adewoye and Stanley
  */
 int print_int(va_list l, flags_t *f)
 {
