@@ -10,6 +10,7 @@
  * @plus: flag for the '+' character
  * @space: flag for the ' ' character
  * @hash: flag for the '#' character
+ * By Adewoyelola and Stanley
  */
 typedef struct flags
 {
